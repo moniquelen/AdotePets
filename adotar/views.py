@@ -64,5 +64,5 @@ def processa_pedido_adocao(request, id_pedido):
         [pedido.usuario.email,]
     )
     
-    messages.add_message(request, constants.SUCCESS, 'PEdido de adoção processado com sucesso.')
+    messages.add_message(request, constants.SUCCESS, 'Pedido de adoção processado com sucesso.')
     return redirect('/divulgar/ver_pedido_adocao')
