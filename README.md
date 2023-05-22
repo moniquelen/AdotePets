@@ -14,9 +14,6 @@ Site para adoção de pets, feito utilizando utilizando Django. Nele possui pág
 - JavaScript
 - SQLite
 
-## 📄 Projeto
-Projeto feito durante a Pystack Week da Pythonando.
-
 ## 💻 Layouts
 - Tela de cadastro de usuários:
 <img src="imgs_projeto/cadastro.png" width="100%">
